@@ -15,15 +15,11 @@
         <a href="#" class="nav-link">Contact</a>
       </li>
     </ul>
-<<<<<<< HEAD
     <ul class="navbar-nav ml-auto">
       <li class="nav-item">
           <a> <button type="button" class="btn btn-danger" >Logout</button></a>
       </li>
     </ul>  
-=======
-
->>>>>>> bac95bbfe8dce14c28cf90ed8bda049ef44f02f8
     <!-- SEARCH FORM -->
     <!-- <form class="form-inline ml-3">
       <div class="input-group input-group-sm">
